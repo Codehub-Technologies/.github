@@ -6,7 +6,7 @@ Codehub Technologies is a dynamic and innovative organization dedicated to [brie
 
 📧 **Email**: [Organization Contact Email]
 
-🔗 **LinkedIn**: [LinkedIn Page URL]
+🔗 **LinkedIn**: [LinkedIn Page URL](https://www.linkedin.com/company/codehubtechnologies/)
 
 🐦 **Twitter**: [@OrganizationHandle](https://twitter.com/OrganizationHandle)
 
@@ -36,7 +36,7 @@ Feel free to check out our [Contribution Guidelines](CONTRIBUTING.md) for more d
 Join our community and stay up to date with our latest projects, events, and announcements:
 
 - Follow us on [Twitter](https://twitter.com/OrganizationHandle)
-- Connect with us on [LinkedIn](https://www.linkedin.com/company/organization-name)
+- Connect with us on [LinkedIn](https://www.linkedin.com/company/codehubtechnologies/)
 - Subscribe to our newsletter for updates: [Newsletter Subscription Form]
 
 We're excited to have you here and look forward to your contributions and engagement!

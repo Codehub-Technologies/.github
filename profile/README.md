@@ -35,7 +35,7 @@ Feel free to check out our [Contribution Guidelines](CONTRIBUTING.md) for more d
 
 Join our community and stay up to date with our latest projects, events, and announcements:
 
-- Follow us on [Twitter](https://twitter.com/OrganizationHandle)
+- Follow us on [Twitter](https://twitter.com/Codehub_tech)
 - Connect with us on [LinkedIn](https://www.linkedin.com/company/codehubtechnologies/)
 - Subscribe to our newsletter for updates: [Newsletter Subscription Form]
 

@@ -8,7 +8,7 @@ Codehub Technologies is a dynamic and innovative organization dedicated to [brie
 
 🔗 **LinkedIn**: [LinkedIn Page URL](https://www.linkedin.com/company/codehubtechnologies/)
 
-🐦 **Twitter**: [@OrganizationHandle](https://twitter.com/OrganizationHandle)
+🐦 **Twitter**: [@Codehub_tech](https://twitter.com/Codehub_tech)
 
 ## Our Projects
 

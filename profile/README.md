@@ -37,6 +37,7 @@ Join our community and stay up to date with our latest projects, events, and ann
 
 - Follow us on [Twitter](https://twitter.com/Codehub_tech)
 - Connect with us on [LinkedIn](https://www.linkedin.com/company/codehubtechnologies/)
+- Connect with us on [Facebook](https://web.facebook.com/Codehubtechnologies)
 - Subscribe to our newsletter for updates: [Newsletter Subscription Form]
 
 We're excited to have you here and look forward to your contributions and engagement!

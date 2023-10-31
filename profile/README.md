@@ -2,7 +2,7 @@
 
 Codehub Technologies is a dynamic and innovative organization dedicated to [brief description of the organization's purpose or mission]. We are passionate about [specific area or industry] and strive to [what the organization aims to achieve or contribute].
 
-🌐 **Website**: [Organization Website URL]
+🌐 **Website**: [https://codehubtech.org](https://codehubtech.org)
 
 📧 **Email**: [Organization Contact Email]
 

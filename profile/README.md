@@ -4,12 +4,13 @@ Codehub Technologies is a dynamic and innovative organization dedicated to [brie
 
 🌐 **Website**: [https://codehubtech.org](https://codehubtech.org)
 
-📧 **Email**: [Organization Contact Email]
+📧 **Email**: [Organization Contact Email](codehubtechnologies1@gmail.com)
 
 🔗 **LinkedIn**: [LinkedIn Page URL](https://www.linkedin.com/company/codehubtechnologies/)
 
-🐦 **Twitter**: [@Codehub_tech](https://twitter.com/Codehub_tech)
+🐦 **X**: [@Codehub_tech](https://twitter.com/Codehub_tech)
 
+ <!-- 
 ## Our Projects
 
 Explore our open-source projects and contributions:
@@ -17,7 +18,7 @@ Explore our open-source projects and contributions:
 1. [Project 1 Name](https://github.com/OrganizationName/Project1): Brief description of the project.
 2. [Project 2 Name](https://github.com/OrganizationName/Project2): Brief description of the project.
 3. [Project 3 Name](https://github.com/OrganizationName/Project3): Brief description of the project.
-   <!-- Add more projects as needed -->
+  Add more projects as needed -->
 
 ## How to Contribute
 
@@ -35,10 +36,11 @@ Feel free to check out our [Contribution Guidelines](CONTRIBUTING.md) for more d
 
 Join our community and stay up to date with our latest projects, events, and announcements:
 
-- Follow us on [Twitter](https://twitter.com/Codehub_tech)
+- Follow us on [X](https://twitter.com/Codehub_tech)
 - Connect with us on [LinkedIn](https://www.linkedin.com/company/codehubtechnologies/)
 - Connect with us on [Facebook](https://web.facebook.com/Codehubtechnologies)
-- Subscribe to our newsletter for updates: [Newsletter Subscription Form]
+- Join Our [WhatsApp Channel](https://whatsapp.com/channel/0029Va4LffKI1rcg2fTFdu3P)
+- Join Our [WhatsApp Community](https://chat.whatsapp.com/HZ195f3bhaj6yyacGa1AzC)
 
 We're excited to have you here and look forward to your contributions and engagement!
 
